@@ -6,18 +6,18 @@
 
 ---
 
-<h2>🚀 About Me</h2>
+<h2>About Me</h2>
 
 <ul>
-  <li>📊 Strong experience with financial systems & accounting workflows</li>
-  <li>🧠 Process automation and data integration</li>
-  <li>📱 Mobile apps using React Native</li>
-  <li>⚙️ Backend APIs with Flask and database integrations</li>
+  <li> Strong experience with financial systems & accounting workflows</li>
+  <li> Process automation and data integration</li>
+  <li> Mobile apps using React Native</li>
+  <li> Backend APIs with Flask and database integrations</li>
 </ul>
 
 ---
 
-<h2>🛠️ Tech Stack</h2>
+<h2>Tech Stack</h2>
 
 <p align="center">
   <!-- React Native -->
@@ -60,12 +60,6 @@
 
 ---
 
-<h2>💼 What I Build</h2>
-
-<p>
-I specialize in developing systems that actually solve business problems — especially in retail, automation, and data-heavy environments.
-</p>
-
 <ul>
   <li>✔️ Commercial automation systems</li>
   <li>✔️ Inventory & POS solutions</li>
@@ -73,10 +67,3 @@ I specialize in developing systems that actually solve business problems — esp
   <li>✔️ Custom business workflows</li>
 </ul>
 
----
-
-<h2>📈 Mindset</h2>
-
-<p>
-Always focused on performance, scalability, and practical results — not just code, but solutions.
-</p>

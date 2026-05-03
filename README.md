@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+- 🌱 I’m currently learning **Glassmorphism**.
+
+![Demo do App](./democard.gif)
+
 <!--
 **gabrielmacedo102/gabrielmacedo102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

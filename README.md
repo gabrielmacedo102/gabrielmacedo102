@@ -1,24 +1,3 @@
-<h1 align="center">Hi there 👋</h1>
-
-<p align="center">
-  Developer focused on building real-world solutions, combining backend, mobile apps and business logic.
-</p>
-
----
-
-<h2>About Me</h2>
-
-<ul>
-  <li> Strong experience with financial systems & accounting workflows</li>
-  <li> Process automation and data integration</li>
-  <li> Mobile apps using React Native</li>
-  <li> Backend APIs with Flask and database integrations</li>
-</ul>
-
----
-
-<h2>Tech Stack</h2>
-
 <p align="center">
   <!-- React Native -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native"/>
@@ -69,4 +48,16 @@
   <li>✔️ Data migration and integration tools</li>
   <li>✔️ Custom business workflows</li>
 </ul>
+
+-- 
+
+<h2>About Me</h2>
+
+<ul>
+  <li> Strong experience with financial systems & accounting workflows</li>
+  <li> Process automation and data integration</li>
+  <li> Mobile apps using React Native</li>
+  <li> Backend APIs with Flask and database integrations</li>
+</ul>
+
 
